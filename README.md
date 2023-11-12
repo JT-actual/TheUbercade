@@ -31,15 +31,15 @@ Now I'll show you how I did it, for under $100.
 
 ## Bill of Materials
 
-1x Raspberry Pi 3/4/5 (I had a 3 B+ laying around, but you should go with a newer model. As of writing, 
-1x Computer Monitor w/ Sound + HDMI Port
-1x HDMI Cable + Power Cable for Monitor & RPI3
-1x SD Card (A good one- you will need it for running SNES. Minimum UHS II, but go with III if you can afford)
-1x 16GB+ USB Stick (bigger = more games)
-1x DC Plug + USB -> Micro USB Power Cord (don't skimp here, if your power is low/unstable your RPI will have lagging issues or shut off entirely)
-2x SNES Controllers (Amazon)
-1x An Afternoon 
-1-10x Beer (optional)
+1x Raspberry Pi 3/4/5 (I had a 3 B+ laying around, but you should go with a newer model. As of this update (Nov 2023) the install process is the same across all 3 models.) <br>
+1x Computer Monitor w/ Sound + HDMI Por t<br>
+1x HDMI Cable + Power Cable for Monitor & RPI3 <br>
+1x SD Card (A good one- you will need it for running SNES. Minimum UHS II, but go with III if you can afford) <br>
+1x 16GB+ USB Stick (bigger = more games) <br>
+1x DC Plug + USB -> Micro USB Power Cord (don't skimp here, if your power is low/unstable your RPI will have lagging issues or shut off entirely) <br>
+2x SNES Controllers (Amazon) <br>
+1x An Afternoon <br>
+1-10x Beer (optional) <br>
 
 
 ## Software Needed Ahead of Time
