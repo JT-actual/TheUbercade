@@ -1,6 +1,8 @@
 # The Ubercade
 Raspberry Pi 3 Super Nintendo / Vertical Scrolling Arcade project for entertaining your rideshare customers & earning more tips.
 
+You can see images of the final build in [this GitHub Wiki.](https://github.com/JT-actual/TheUbercade/wiki)
+
 
 ## November 2023 Update
 This project has been massively overhauled since its inception in 2018. The 2018 instruction set contained a bunch of workarounds and custom python scripting to get it to work. 
