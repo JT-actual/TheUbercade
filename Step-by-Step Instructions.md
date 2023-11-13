@@ -2,7 +2,7 @@
 
 ## November 2023 Update
 This project has been massively overhauled since its inception in 2018. The 2018 instruction set contained a bunch of workarounds and custom python scripting to get it to work. 
-The team at Raspberry Pi have since created a native emulator which makes this project nearly turn-key. To make this more accessible to others, I have updated the instructions to reflect the new process. You will find all instructions necessary to build this for yourself on this page.
+The team at Raspberry Pi have since added an install option for Retropie which makes this project nearly turn-key. To make this more accessible to others, I have updated the instructions to reflect the new process. You will find all instructions necessary to build this for yourself on this page.
 
 ## Step 1: Prepping Pi
   1. Head over to [Raspberry Pi Downloads](https://www.raspberrypi.com/software/) and download the latest version of the Raspberry Pi Imager for your machine.<br>
