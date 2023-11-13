@@ -51,4 +51,4 @@ Now I'll show you how I did it, for under $100.
 1-10x Beer(s) (optional) <br>
 
 
-## Ready to get started? Head over to Part 1.
+## Ready to get started? Head over to [the step-by-step instructions.](https://github.com/JT-actual/TheUbercade/blob/main/Step-by-Step%20Instructions.md)
